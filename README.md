@@ -1,4 +1,4 @@
-<img src="https://id.pinterest.com/pin/317503842503159711/" height="50%" alt="pp" />
+<img src="https://id.pinterest.com/pin/314407617753615148" height="50%" alt="pp" />
 
 <h1 align="center">Hi there 👋, I'm ipang23455</h1>
 <p align="center">💻 Siswa RPL | 🚗 Peminat Otomotif | 🔧 Teknologi dan Mesin</p>

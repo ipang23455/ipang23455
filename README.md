@@ -1,4 +1,3 @@
-<img src="https://pin.it/4pwOk6aQT" height="100%" alt="pp" />
 <h1 align="center">Hi there 👋, I'm ipang23455</h1>
 <p align="center">💻 Siswa RPL | 🚗 Peminat Otomotif | 🔧 Teknologi dan Mesin</p>
 
